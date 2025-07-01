@@ -117,8 +117,8 @@ Built an interactive web application using **Streamlit**.
 
 ### 🔹 Streamlit Web App
 
-![Streamlit UI Screenshot](screenshots/streamlit_ui.png)
-![Streamlit UI Screenshot](screenshots/streamlit_ui2.png)
+![Streamlit UI Screenshot](screenshots/streamlit_ui.PNG)
+![Streamlit UI Screenshot](screenshots/streamlit_ui2.PNG)
 
 
 ---
